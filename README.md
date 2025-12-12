@@ -2,7 +2,7 @@
 ## I’m Vanshita 
 
 I’m a Software Developer (MERN) with that exploring how to use AI like LangChain, vector databases and RAG to solve real problems.
-I like building projects end-to-end — from clean UIs to working APIs and databases — and improving a little every day.
+I like building projects end-to-end - from clean UIs to working APIs and databases - and improving a little every day.
 
 ## What I’ve worked on
 - A sports slot-booking platform with dashboards, authentication and booking flow.
@@ -20,4 +20,4 @@ React, Node.js, Express, MongoDB, MySQL, JavaScript, Python, Java, LangChain, RA
 
 ## If you're checking my profile
 I’m still early in my journey, but I enjoy learning and building.
-If you have suggestions or want to collaborate on something simple but meaningful — I’m always open to it!
+If you have suggestions or want to collaborate on something simple but meaningful - I’m always open to it!
