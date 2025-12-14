@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## I’m Vanshita 
 
-I’m a Software Developer (MERN) with that exploring how to use AI like LangChain, vector databases and RAG to solve real problems.
+I’m a Software Developer (MERN) exploring how to use AI like LangChain, vector databases and RAG to solve real problems.
 I like building projects end-to-end - from clean UIs to working APIs and databases - and improving a little every day.
 
 ## What I’ve worked on
