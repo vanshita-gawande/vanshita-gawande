@@ -1,23 +1,34 @@
-## Hi there 👋
-## I’m Vanshita 
+# Hi there, I'm Vanshita
 
-I’m a Software Developer (MERN) exploring how to use AI like LangChain, vector databases and RAG to solve real problems.
-I like building projects end-to-end - from clean UIs to working APIs and databases - and improving a little every day.
+I'm an **Full Stack AI Application Developer** passionate about building intelligent applications using **Generative AI, LLMs, RAG, LangChain, LangGraph, Agentic AI, MCP (Model Context Protocol), and Vector Databases**. I enjoy designing end-to-end AI solutions—from data ingestion and retrieval pipelines to AI agents, APIs, and user-facing applications that solve real-world problems.
 
-## What I’ve worked on
-- A sports slot-booking platform with dashboards, authentication and booking flow.
-- A blockchain-based supply chain prototype where users can scan a QR to verify product details.
-- Internships where I worked on frontend–backend integration, REST APIs and responsive UI development.
+## What I've Built
 
-## Skills I’m growing with
-React, Node.js, Express, MongoDB, MySQL, JavaScript, Python, Java, LangChain, RAG systems, Git, Postman
+* **RAG-based AI Applications** that process multiple document formats, perform intelligent chunking, generate embeddings, store knowledge in vector databases, and deliver context-aware responses using LLMs.
+* **AI Agent & Workflow Projects** exploring LangChain, LangGraph, MCP, prompt engineering, and retrieval pipelines for intelligent automation.
+* Hands-on projects focused on **FastAPI, Python, SQL, vector databases, and LLM integration**, building scalable AI-powered applications.
 
-## What you’ll find in my repos
-- Small experiments where I try out new backend or AI concepts
-- Web apps built as practice projects
-- Clean, beginner-friendly code with comments
-- Projects I’m still improving as I learn new things
+## Tech Stack
 
-## If you're checking my profile
-I’m still early in my journey, but I enjoy learning and building.
-If you have suggestions or want to collaborate on something simple but meaningful - I’m always open to it!
+**Generative AI:** LLMs, RAG, LangChain, LangGraph, MCP, Prompt Engineering, AI Agents
+**Frontend:** JavaScript, ReactJs, Tailwind CSS 
+**Backend:** Python, FastAPI, REST APIs, SQL
+**Data:** Vector Databases (Chroma/FAISS), MySQL
+**Tools:** Git, GitHub, Postman
+
+## What You'll Find Here
+
+* Generative AI and Agentic AI projects
+* RAG pipelines and LLM-powered applications
+* AI workflow automation with LangChain & LangGraph
+* Clean UI using ReactJs, Tailwind CSS and other UI frameworks
+* FastAPI backend services and production-oriented AI experiments
+* Clean, well-structured code with continuous improvements
+
+## Currently Learning
+
+I'm continuously expanding my knowledge in **AI Engineering, Agentic AI, multi-agent systems, LLM orchestration, MCP, advanced RAG architectures, and scalable AI application development**.
+
+## Let's Connect
+
+I'm always excited to learn, build, and collaborate on meaningful **AI and Generative AI** projects. If you're working on something interesting or have ideas to share, feel free to connect!
